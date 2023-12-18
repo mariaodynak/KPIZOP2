@@ -1,0 +1,5 @@
+Bolt1 Standard 12 6 2023 100 0.5
+Screw1 Premium 5 8 2022 50 1.2
+Nut1 Standard 8 4 2021 200 0.2
+Washer1 Premium 15 2 2023 150 0.8
+Gear1 Standard 10 9 2022 30 2.5
